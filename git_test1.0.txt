@@ -1,2 +1,5 @@
-i want test my git project
+i want do some change on the line
+fighting
 let's do it 
+now,we can change the txt
+this is 5 line
